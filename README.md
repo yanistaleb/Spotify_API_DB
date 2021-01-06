@@ -1,4 +1,9 @@
 # Spotify_API_DB:
+
+# étape indispensable :
+
+#pip install spotipy
+
 #Presentation du projet :
 
   Ce projet consiste a construire une base de données relationnelle et de la remplir avec des données provenant d'une API.
