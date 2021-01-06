@@ -27,7 +27,7 @@
   
 # 3) Contruire un schéma de données
   Nous avons deduis les relations entre les tables a partir du dictionnaire et construit le diagramme suivant: 
-  ![Diagramme entité-association Spotify_DB](https://user-images.githubusercontent.com/31952379/103778318-5df73100-5032-11eb-8d37-5945933165f8.jpeg)
+  (https://user-images.githubusercontent.com/31952379/103778318-5df73100-5032-11eb-8d37-5945933165f8.jpeg)
   
 
   
