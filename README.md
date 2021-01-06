@@ -1,4 +1,4 @@
-# Spotify_API_DB
+# Spotify_API_DB:
 #Presentation du projet :
 
   Ce projet consiste a construire une base de données relationnelle et de la remplir avec des données provenant d'une API.
@@ -21,13 +21,29 @@
    C'est une étape importante, car vous aurez besoin de votre ID client et de votre secret client pour construire le token et accéder à leurs points de terminaison.
    https://developer.spotify.com/dashboard/
  
- # 2) Faire le dictionnaire de données
+ # 2) Faire le dictionnaire de données:
   Nous avons etudier la reponse de l'API et nous en avons deduit le dictionnaire de données suivant:
   https://docs.google.com/spreadsheets/d/1PYIsKgsFiI9L5YfAqMpZ4u77125iybxKHr3nyohcoro/edit?usp=sharing
   
-# 3) Contruire un schéma de données
+# 3) Contruire un schéma de données:
   Nous avons deduis les relations entre les tables a partir du dictionnaire et construit le diagramme suivant: 
-  (https://user-images.githubusercontent.com/31952379/103778318-5df73100-5032-11eb-8d37-5945933165f8.jpeg)
+  
+  ![Diagramme entité-association Spotify_DB](https://user-images.githubusercontent.com/31952379/103778318-5df73100-5032-11eb-8d37-5945933165f8.jpeg)
+  
+# 4) database:
+
+![Diagramme entité-association Spotify_DB](https://user-images.githubusercontent.com/31952379/103779156-a06d3d80-5033-11eb-8548-2d75d6e851bf.jpeg)
+
+
+# 5) Résultats aprés remplissage de la base avec l'API sur SQL server:
+
+<img width="449" alt="affichage_tables_remplis" src="https://user-images.githubusercontent.com/31952379/103779202-b2e77700-5033-11eb-8bbf-b73b6d05765a.png">
+
+
+
+
+
+
   
 
   
