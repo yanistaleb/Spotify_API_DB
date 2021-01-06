@@ -32,7 +32,8 @@
   
 # 4) database:
 
-![Diagramme entité-association Spotify_DB](https://user-images.githubusercontent.com/31952379/103779156-a06d3d80-5033-11eb-8548-2d75d6e851bf.jpeg)
+<img width="282" alt="diagramme_sql_server" src="https://user-images.githubusercontent.com/31952379/103779351-ec1fe700-5033-11eb-980a-1dee6d760492.png">
+
 
 
 # 5) Résultats aprés remplissage de la base avec l'API sur SQL server:
