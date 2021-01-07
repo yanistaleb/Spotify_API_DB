@@ -28,7 +28,7 @@
  
  # 2) Faire le dictionnaire de données:
   Nous avons etudier la reponse de l'API et nous en avons deduit le dictionnaire de données suivant:
-  https://docs.google.com/spreadsheets/d/1PYIsKgsFiI9L5YfAqMpZ4u77125iybxKHr3nyohcoro/edit?usp=sharing
+ https://docs.google.com/spreadsheets/d/1PYIsKgsFiI9L5YfAqMpZ4u77125iybxKHr3nyohcoro/edit?usp=sharing
   
 # 3) Contruire un schéma de données:
   Nous avons deduis les relations entre les tables a partir du dictionnaire et construit le diagramme suivant: 
